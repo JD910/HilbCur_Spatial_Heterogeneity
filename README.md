@@ -1,5 +1,5 @@
 # HilbCur_Spatial_Heterogeneity
-The source code for "Decoding Intra-tumoral Spatial Heterogeneity on Radiological Images Using the Hilbert Curve"
+The source code and data for "Decoding Intra-tumoral Spatial Heterogeneity on Radiological Images Using the Hilbert Curve"
 
 [![standard-readme compliant](https://img.shields.io/badge/Readme-standard-brightgreen.svg?style=flat-square)](https://github.com/JD910/ESLN/blob/main/README.md)
 ![](https://img.shields.io/badge/Nodejs-V14.16.0-brightgreen.svg?style=flat-square)
