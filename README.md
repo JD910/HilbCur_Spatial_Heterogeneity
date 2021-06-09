@@ -7,6 +7,9 @@ The source code for "Decoding Intra-tumoral Spatial Heterogeneity on Radiologica
 ### 
 **A Hilbert curve–based spatial correspondence mapping approach to decode and visualize three-dimensional intra-tumoral heterogeneity on radiological images into two-dimensional images while preserving the spatial locality between voxels.**<br />
 
+* TumorDimReducebyHilbCurve.html is used to start the illustration of the dimensionality reduction using the Hilbert curve-based spatial correspondence mapping.<br />
+* tumor_2D_Slice.json, tumor_3D_blocks.json, and tumor.json are the corresponding Hilbert volume data, consisting of axial plane images, 3D blocks, and the lung tumor, for this study.
+
 <div align=center><img width="610" height="331" src="https://github.com/JD910/HilbCurv_Spatial_Heterogeneity/blob/main/Imgs/Figure 1.jpg"/></div>
 <p align="center"> Figure 1. The Hilbert curve H(t) from level 1 to level 8.</p><br />
 
