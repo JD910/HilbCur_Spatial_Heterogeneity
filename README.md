@@ -7,7 +7,14 @@ The source code for "Decoding Intra-tumoral Spatial Heterogeneity on Radiologica
 ### 
 **A Hilbert curve–based spatial correspondence mapping approach to decode and visualize three-dimensional intra-tumoral heterogeneity on radiological images into two-dimensional images while preserving the spatial locality between voxels.**<br />
 
-Figure 1. The Hilbert curve H(t) from level 1 to level 8.
+<div align=center><img width="610" height="300" src="https://github.com/JD910/HilbCurv_Spatial_Heterogeneity/tree/main/Imgs/Figure 1.jpg"/></div><br />
+<p align="center"> Figure 1. The Hilbert curve H(t) from level 1 to level 8.</p>
 
+<div align=center><img width="610" height="300" src="https://github.com/JD910/HilbCurv_Spatial_Heterogeneity/tree/main/Imgs/Figure 3.jpg"/></div><br />
+<p align="center"> Figure 2. Two-dimensional Hilbert curves with level 1 (A) and level 2 (B) were respectively stretched into a straight line. Example of the dimensionality reduction of a three-dimensional mass with 16 voxels to a two-dimensional matrix with 4 × 4 pixels using a three-dimensional Hilbert curve</p>
 
+<div align=center><img width="610" height="300" src="https://github.com/JD910/HilbCurv_Spatial_Heterogeneity/tree/main/Imgs/Figure 5.jpg"/></div><br />
+<p align="center"> Figure 3. The Hilbert volume (A) consisted of only a single axial plane image. The result of the Hilbert matrix expanded from the Hilbert volume with the single images on the cross-sectional (B), coronal (C), and sagittal (D) axes, respectively.</p>
 
+<div align=center><img width="610" height="300" src="https://github.com/JD910/HilbCurv_Spatial_Heterogeneity/tree/main/Imgs/Figure 6jpg"/></div><br />
+<p align="center"> Figure 4. A Hilbert volume (A) consisting of four blocks of VA1, VA2, VA3, and VA4 was expanded into a Hilbert matrix (B). The corresponding expansions of the four blocks were MB1, MB2, MB3, and MB4 on the matrix, respectively. The Hilbert volume with the lung tumor inside (C) was expanded to a two-dimensional Hilbert matrix (D). The voxels of the lung tumor (C) in blue were expanded into the pixels of the matrix (D) in blue, accordingly.</p>
