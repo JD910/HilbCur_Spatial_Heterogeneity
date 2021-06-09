@@ -1,5 +1,5 @@
 # HilbCur_Spatial_Heterogeneity
-The source code and data for "Decoding Intra-tumoral Spatial Heterogeneity on Radiological Images Using the Hilbert Curve"
+Source code and data of "Decoding Intra-tumoral Spatial Heterogeneity on Radiological Images Using the Hilbert Curve"
 
 [![standard-readme compliant](https://img.shields.io/badge/Readme-standard-brightgreen.svg?style=flat-square)](https://github.com/JD910/ESLN/blob/main/README.md)
 ![](https://img.shields.io/badge/Nodejs-V14.16.0-brightgreen.svg?style=flat-square)
@@ -7,8 +7,9 @@ The source code and data for "Decoding Intra-tumoral Spatial Heterogeneity on Ra
 ### 
 **A Hilbert curve–based spatial correspondence mapping approach to decode and visualize three-dimensional intra-tumoral heterogeneity on radiological images into two-dimensional images while preserving the spatial locality between voxels.**<br />
 
-* TumorDimReducebyHilbCurve.html is used to start the illustration of the dimensionality reduction using the Hilbert curve-based spatial correspondence mapping.<br />
-* tumor_2D_Slice.json, tumor_3D_blocks.json, and tumor.json are the corresponding Hilbert volume data, consisting of axial plane images, 3D blocks, and the lung tumor, for this study.
+* _Server_Git.js_ is the entry program used to start _TumorDimReducebyHilbCurve.html_ for dimensionality reduction.
+* _TumorDimReducebyHilbCurve.html_ is used to start the illustration of the dimensionality reduction using the Hilbert curve-based spatial correspondence mapping.<br />
+* _tumor_2D_Slice.json, tumor_3D_blocks.json, and tumor.json_ are the corresponding Hilbert volume data, consisting of axial plane images, 3D blocks, and the lung tumor, for this study.
 
 <div align=center><img width="610" height="331" src="https://github.com/JD910/HilbCurv_Spatial_Heterogeneity/blob/main/Imgs/Figure 1.jpg"/></div>
 <p align="center"> Figure 1. The Hilbert curve H(t) from level 1 to level 8.</p><br />
